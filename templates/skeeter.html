@@ -1,0 +1,17 @@
+<ion-view title="Skeeter" id="page1" style="background-color:#036D70;">
+  <ion-content padding="true" class="has-header">
+    <div>
+      <img src="img/HUInigOUSSylDwF0M3qq_mrt.jpg" style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+    </div>
+    <div>
+      <iframe width="0" height="0" border="0" name="dummyframe" id="dummyframe"></iframe>
+      <form action="https://api.particle.io/v1/devices/yourdevicehere/tone?access_token=yourtokengoeshere" method="POST" target="dummyframe">
+
+        <button class="button button-balanced button-block" name="17khz" value="17">Turn on the 17kHz Tone</button>
+        <button class="button button-energized button-block" name="8khz" value="8">Turn on the 8kHz Tone</button>
+        <button class="button button-assertive button-block" name="off" value="off">Turn the sound off</button>
+      </form>
+
+    </div>
+  </ion-content>
+</ion-view>
