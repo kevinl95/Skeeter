@@ -1,7 +1,7 @@
 # Skeeter
 # Internet of Things High Pitched Noise Generator Prank
 
-[Read this blog post explaining more about Skeeter and view some assembly pictures!](https://wordpress.com/post/kevinmichaelloeffler.com/382)
+[Read this blog post explaining more about Skeeter and view some assembly pictures!](https://kevinmichaelloeffler.com/2017/05/26/skeeter-an-open-source-internet-of-things-pranking-device/)
 
 Skeeter is an IoT prank machine that allows you to emit two high-pitched noises near the edge of human hearing:
 
