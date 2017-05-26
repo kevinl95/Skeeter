@@ -1,7 +1,6 @@
 # Skeeter
 # Internet of Things High Pitched Noise Generator Prank
 
-![Mosquito](http://images.clipartpanda.com/mosquito-clip-art-mosquito-clip-art-2.jpg)
 
 Skeeter is an IoT prank machine that allows you to emit two high-pitched noises near the edge of human hearing:
 
